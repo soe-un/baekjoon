@@ -1,4 +1,1 @@
-(s) :
-#     t = deque()
-#     t.append(s)
-#     while t:
+filter(lambda x: x == 0, gc)
