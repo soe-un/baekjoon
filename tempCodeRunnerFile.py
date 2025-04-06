@@ -1,1 +1,4 @@
-'#{0}'%test_case
+(s) :
+#     t = deque()
+#     t.append(s)
+#     while t:
