@@ -1,1 +1,1 @@
-a-B
+combinations([0, 1, 2, 3], 2)
