@@ -1,1 +1,1 @@
-ix, iy, path + [(ix, iy)]
+if isDebug: 
